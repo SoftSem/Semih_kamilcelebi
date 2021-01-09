@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Misyoner Pizza Sipariş Otomasyon\Misyoner Pizza Sipariş Otomasyon\bin\Debug\Misyoner Pizza Sipariş Otomasyon.exe.config
+C:\Users\User\Desktop\Misyoner Pizza Sipariş Otomasyon\Misyoner Pizza Sipariş Otomasyon\bin\Debug\Misyoner Pizza Sipariş Otomasyon.exe
+C:\Users\User\Desktop\Misyoner Pizza Sipariş Otomasyon\Misyoner Pizza Sipariş Otomasyon\bin\Debug\Misyoner Pizza Sipariş Otomasyon.pdb
+C:\Users\User\Desktop\Misyoner Pizza Sipariş Otomasyon\Misyoner Pizza Sipariş Otomasyon\obj\Debug\Misyoner Pizza Sipariş Otomasyon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Misyoner Pizza Sipariş Otomasyon\Misyoner Pizza Sipariş Otomasyon\obj\Debug\Misyoner_Pizza_Sipariş_Otomasyon.Form1.resources
+C:\Users\User\Desktop\Misyoner Pizza Sipariş Otomasyon\Misyoner Pizza Sipariş Otomasyon\obj\Debug\Misyoner_Pizza_Sipariş_Otomasyon.Properties.Resources.resources
+C:\Users\User\Desktop\Misyoner Pizza Sipariş Otomasyon\Misyoner Pizza Sipariş Otomasyon\obj\Debug\Misyoner Pizza Sipariş Otomasyon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Misyoner Pizza Sipariş Otomasyon\Misyoner Pizza Sipariş Otomasyon\obj\Debug\Misyoner Pizza Sipariş Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Misyoner Pizza Sipariş Otomasyon\Misyoner Pizza Sipariş Otomasyon\obj\Debug\Misyoner Pizza Sipariş Otomasyon.exe
+C:\Users\User\Desktop\Misyoner Pizza Sipariş Otomasyon\Misyoner Pizza Sipariş Otomasyon\obj\Debug\Misyoner Pizza Sipariş Otomasyon.pdb
+C:\Users\User\Desktop\Misyoner Pizza Sipariş Otomasyon\Misyoner Pizza Sipariş Otomasyon\obj\Debug\Misyoner_Pizza_Sipariş_Otomasyon.Form2.resources
